@@ -1,2 +1,7 @@
 # hello-world
-my first repository 
+
+Hi!
+That's my first project on github!
+
+# todo
+* do a usefull project.
